@@ -1,0 +1,22 @@
+D:\baitaplon\SQL Quản lý ký túc xá\SQL Quản lý ký túc xá\bin\Debug\SQL Quản lý ký túc xá.exe.config
+D:\baitaplon\SQL Quản lý ký túc xá\SQL Quản lý ký túc xá\bin\Debug\SQL Quản lý ký túc xá.exe
+D:\baitaplon\SQL Quản lý ký túc xá\SQL Quản lý ký túc xá\bin\Debug\SQL Quản lý ký túc xá.pdb
+D:\baitaplon\SQL Quản lý ký túc xá\SQL Quản lý ký túc xá\obj\Debug\SQL Quản lý ký túc xá.csproj.AssemblyReference.cache
+D:\baitaplon\SQL Quản lý ký túc xá\SQL Quản lý ký túc xá\obj\Debug\SQL Quản lý ký túc xá.csproj.SuggestedBindingRedirects.cache
+D:\baitaplon\SQL Quản lý ký túc xá\SQL Quản lý ký túc xá\obj\Debug\SQL_Quản_lý_ký_túc_xá.Form1.resources
+D:\baitaplon\SQL Quản lý ký túc xá\SQL Quản lý ký túc xá\obj\Debug\SQL_Quản_lý_ký_túc_xá.Properties.Resources.resources
+D:\baitaplon\SQL Quản lý ký túc xá\SQL Quản lý ký túc xá\obj\Debug\SQL Quản lý ký túc xá.csproj.GenerateResource.cache
+D:\baitaplon\SQL Quản lý ký túc xá\SQL Quản lý ký túc xá\obj\Debug\SQL Quản lý ký túc xá.csproj.CoreCompileInputs.cache
+D:\baitaplon\SQL Quản lý ký túc xá\SQL Quản lý ký túc xá\obj\Debug\SQL Quản lý ký túc xá.exe
+D:\baitaplon\SQL Quản lý ký túc xá\SQL Quản lý ký túc xá\obj\Debug\SQL Quản lý ký túc xá.pdb
+D:\baitaplon\SQL Quản lý ký túc xá\SQL Quản lý ký túc xá\bin\Debug\Newtonsoft.Json.dll
+D:\baitaplon\SQL Quản lý ký túc xá\SQL Quản lý ký túc xá\bin\Debug\System.ComponentModel.Annotations.dll
+D:\baitaplon\SQL Quản lý ký túc xá\SQL Quản lý ký túc xá\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\baitaplon\SQL Quản lý ký túc xá\SQL Quản lý ký túc xá\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\baitaplon\SQL Quản lý ký túc xá\SQL Quản lý ký túc xá\bin\Debug\Telegram.Bot.dll
+D:\baitaplon\SQL Quản lý ký túc xá\SQL Quản lý ký túc xá\bin\Debug\Newtonsoft.Json.xml
+D:\baitaplon\SQL Quản lý ký túc xá\SQL Quản lý ký túc xá\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\baitaplon\SQL Quản lý ký túc xá\SQL Quản lý ký túc xá\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\baitaplon\SQL Quản lý ký túc xá\SQL Quản lý ký túc xá\bin\Debug\Telegram.Bot.pdb
+D:\baitaplon\SQL Quản lý ký túc xá\SQL Quản lý ký túc xá\bin\Debug\Telegram.Bot.xml
+D:\baitaplon\SQL Quản lý ký túc xá\SQL Quản lý ký túc xá\obj\Debug\SQL Quản lý ký túc xá.csproj.CopyComplete
